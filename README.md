@@ -9,8 +9,8 @@
 
 - 🔭 I am currently pursuing B.Tech(Computer Science) and Engineering  !
 - 🌱 From Brainware University, Kolkata.
-- ⚡ I love to explore and learn about new things.
-- 👯 I’m looking to collaborate with other content creators
+- 🛠⚙ I love to explore and learn about new things.
+- 🤝🎓 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to making food and eat.
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
