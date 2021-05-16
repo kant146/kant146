@@ -13,11 +13,13 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to making food and eat.
-- 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
+> 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Offline.vercel.app/api/spotify-playing" alt="Offline Spotify Playing" width="350" />](https://open.spotify.com/playlist/6UjglnnUPPgjKxc1eRmDTX)
+[<img src="https://now-playing-Offline.vercel.app/api/spotify-playing" alt="B. Spotify Playing" width="350" />](https://open.spotify.com/playlist/6UjglnnUPPgjKxc1eRmDTX)
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
