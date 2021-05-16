@@ -18,11 +18,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kant146.wordpress.com" width="22px" src="https://kant146.wordpress.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Code_Bank Universe | YouTube" width="22px" src="https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Krishnakant Kumar | Facebook" width="22px" src="https://www.facebook.com/omgkant.146/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Krishnakant | LinkedIn" width="22px" src="https://www.linkedin.com/in/krishnakant-kumar-80965b176/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kant_146 | Instagram" width="22px" src="https://www.instagram.com/kant_146/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnakant-kumar-80965b176/)](https://www.linkedin.com/in/krishnakant-kumar-80965b176/)&nbsp;
+
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant146)](https://www.instagram.com/kant146)&nbsp;
+
+[![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Kant146)](https://hashnode.com/@Kant146)&nbsp;
+<br/>
+
+ [![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)&nbsp; 
+ 
+  [![Youtube Badge](https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; 
+  
+  [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)&nbsp; 
+
+
 
 <br />
 
