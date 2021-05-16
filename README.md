@@ -1,9 +1,7 @@
 ### Hi there,  👋
 
 [![Website](https://img.shields.io/website?label=kant146.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://kant146.wordpress.com)
-
-
-<a href="https://www.instagram.com/kant146"><img src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621138581~hmac=e95602d331f65834d00c5317de36999e"width="30" height="30"></a>
+[![Instagram Badge](https://img.shields.io/badge/-instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant146)](https://www.instagram.com/kant146)&nbsp;
 <a href="mailto:krishnakantkumar146@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
 
@@ -63,8 +61,6 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Krishnakant's GitHub Stats" src="https://github-readme-stats.kant146.vercel.app/api?username=kant146&show_icons=true&hide_border=true" />
   
   ![Metrics](https://metrics.lecoq.io/kant146?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 
