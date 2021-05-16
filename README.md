@@ -1,7 +1,9 @@
 ### Hi there,  👋
 
 [![Website](https://img.shields.io/website?label=kant146.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://kant146.wordpress.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/kant_146?color=8a3ab9&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkant_146&screen_name=kant_146)
+
+[![Instagram](https://img.shields.io/instagram?label=kant_146&style=for-the-badge&url=https%3A%2F%2Fhttps://www.instagram.com/kant146)](https://www.instagram.com/kant146)
+
 
 ## I'm krishnakant !!
 
