@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=kant146.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://kant146.wordpress.com)
 
-[![Instagram](https://img.shields.io/instagram?label=kant_146&style=for-the-badge&url=https%3A%2F%2Fhttps://www.instagram.com/kant146)](https://www.instagram.com/kant146)
+[![Instagram](https://img.shields.io/website?label=kant_146&style=for-the-badge&url=https%3A%2F%2Fhttps://www.instagram.com/kant146)](https://www.instagram.com/kant146)
 
 
 ## I'm krishnakant !!
