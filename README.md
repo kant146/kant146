@@ -1,7 +1,7 @@
 ### Hi there,  👋
 
 [![Website](https://img.shields.io/website?label=kant146.wordpress.com&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://kant146.wordpress.com)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant146)](https://www.instagram.com/kant146)&nbsp;
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant_146/)](https://www.instagram.com/kant_146/)&nbsp;
 <a href="mailto:krishnakantkumar146@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>
 
 
