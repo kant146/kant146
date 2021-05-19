@@ -1,5 +1,6 @@
-
-<img src="developer.gif" width="auto">
+<p align="center">
+  <img src="developer.gif" width="auto">
+</p>
 
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
                 
