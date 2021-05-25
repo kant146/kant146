@@ -36,7 +36,7 @@
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<p align="center"><img src="68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966.gif" height="290dp" width="800dp"></p>
+<p align="center"><img src="68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966.gif" ></p>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"></img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;&nbsp;<img align="bottom" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img src="https://img.icons8.com/ios/48/000000/mysql-logo.png"/>&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;
 
