@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer.gif" height="360dp" width="460dp">
+  <img src="developer.gif" height="260dp" width="360dp">
 </p>
 
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
