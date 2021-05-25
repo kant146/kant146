@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer.gif" width="auto">
+  <img src="developer.gif" height="360dp" width="460dp">
 </p>
 
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
@@ -36,7 +36,7 @@
 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :
 
-<img src="68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966.gif">
+<p align="center"><img src="68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966.gif" height="290dp" width="800dp"></p>
 
 <img src="https://img.icons8.com/color/48/000000/python.png"></img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>&nbsp;&nbsp;<img align="bottom" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;<img src="https://img.icons8.com/ios/48/000000/mysql-logo.png"/>&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;&nbsp;
 
@@ -48,14 +48,14 @@
 
 <br />
 
-<p align="center"><img src="kant146 (3).gif"></p>
+<p align="center"><img src="kant146 (4).gif" height="280dp" width="460dp"></p>
 
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&column=3&margin-w=15&margin-h=15">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
 
-![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146)
+&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kant146&theme=github&count_private=true)  
 
