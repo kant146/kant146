@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="developer.gif" height="260dp" width="360dp">
+  <img src="developer.gif" height="280dp" width="390dp">
 </p>
 
 ### Hi there,  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
@@ -53,7 +53,7 @@
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&column=3&margin-w=15&margin-h=15">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
 
 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
 
