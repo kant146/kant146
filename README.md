@@ -46,10 +46,11 @@
 
 <img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;&nbsp;&nbsp;&nbsp;<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
-
+<br/>
+ <p align="left"><img src="c++_init_forest (1).gif" height="200dp" width="280dp"></p>
 <br />
 
-<p align="center"><img src="kant146 (5).gif" height="280dp" width="460dp"></p>
+<p align="center"><img src="kant146 (5).gif" height="280dp" width="460dp"></p> 
 
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&column=3&margin-w=15&margin-h=15">
