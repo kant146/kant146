@@ -51,7 +51,14 @@
  <p align="left"><img src="c++_init_forest (1).gif" height="200dp" width="280dp"></p>
 <br /> -->
 
+
 <p align="center"><img src="kant146 (5).gif" height="280dp" width="460dp"></p> 
+
+[![Github Overview](https://github-readme-stats.vercel.app/api?username=kant146&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/0x0is1) <br>
+
+## Visitors Count
+
+![Count](https://profile-counter.glitch.me/kant146/count.svg)
 
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&column=3&margin-w=15&margin-h=15">
