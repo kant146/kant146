@@ -22,10 +22,6 @@
 - ⚡ Fun fact: I love to making food and eat.
 > 🐱‍💻 Not very active in Competitive Programming anymore, but if I get time or feeling, I do :)
 
-### Spotify Playing 🎧
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31afwq4rva7wb7onafgvsgzfxwtu)
 
 ### Connect with me:
 
