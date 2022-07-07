@@ -73,7 +73,7 @@
 
 ---
 
-<details>
+<details align="center" width="40%">
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
