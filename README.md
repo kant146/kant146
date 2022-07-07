@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="developer.gif" height="280dp" width="390dp">
-</p>
 
-### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50dp" width="60dp">
-               
+  <img align="right" alt="GIF" src="developer.gif" height="280dp" width="390dp">
 
+### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="50dp" width="60dp">              
 ## I'm krishnakant !!
-
 - 🔭 I  am passionate Full Stack Developer and Freelancer.
 - 🌱 From Brainware University, Kolkata.
 - 🛠⚙ I love to explore and learn about new things.
@@ -16,18 +12,15 @@
 > 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
 
 
-### Connect with me:
+### Connect with me :
 
 [![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://www.freelancer.com/u/krishnakantkr)
 [![Instagram Badge](https://img.shields.io/badge/-Code_Bank-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/code_bank146/)](https://www.instagram.com/code_bank146/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:codebank2020@gmail.com)](mailto:codebank2020@gmail.com)&nbsp;
 [![Website](https://img.shields.io/website?label=Code_Bank&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](http://codebank.co.in)
-
-
 <br/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnakant-kumar-80965b176/)](https://www.linkedin.com/in/krishnakant-kumar-80965b176/)&nbsp;[![Instagram Badge](https://img.shields.io/badge/-instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant_146/)](https://www.instagram.com/kant_146/)&nbsp;[![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Kant146)](https://hashnode.com/@Kant146)&nbsp;
-<br/>[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)&nbsp; [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)&nbsp; <br/>&nbsp;
+[![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)<br/> [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)
 [![Discord Badge](https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=Discord&logoColor=white&link=https://discord.gg/JzaTUBFdB6)](https://discord.gg/JzaTUBFdB6)
 &nbsp;
 
