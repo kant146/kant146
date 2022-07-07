@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" src="developer.gif" height="280dp" width="390dp">
+  <img align="right" alt="GIF" src="developer.gif" height="40%" width="40%">
 
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 ## I'm krishnakant !!
