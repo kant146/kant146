@@ -1,7 +1,7 @@
 
   <img align="right" alt="GIF" src="developer.gif" height="280dp" width="390dp">
 
-### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30dp" >              
+### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="2%" width="2%" >              
 ## I'm krishnakant !!
 - 🔭 I  am passionate Full Stack Developer and Freelancer.
 - 🌱 From Brainware University, Kolkata.
