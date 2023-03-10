@@ -3,7 +3,7 @@
 
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm krishnakant !! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7AE71&width=435&height=28&lines=I+am+Krishnakant+Kumar)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=28&lines=I+am+Krishnakant+Kumar)
 - 🔭 I  am passionate Full Stack Developer and Freelancer.
 - 🌱 From Brainware University, Kolkata.
 - 🛠⚙ I love to explore and learn about new things.
