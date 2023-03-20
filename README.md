@@ -8,7 +8,7 @@
 - 🌱 From Brainware University, Kolkata.
 - 🛠⚙ I love to explore and learn about new things.
 - 🤝🎓 I’m looking to collaborate with other developer's
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to making food and eat.
 > 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
 
