@@ -66,7 +66,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true)&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
 
-![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
+ ![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 
 ---
