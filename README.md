@@ -97,7 +97,9 @@
 <details align="center" width="40%">
   <summary>:zap: GitHub Stats</summary>
   
+  
  ![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kant146&theme=github&count_private=true)  
 
 </details>
 
