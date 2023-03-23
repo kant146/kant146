@@ -22,7 +22,7 @@
 [![Website](https://img.shields.io/website?label=Freelancer&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](https://www.freelancer.com/u/krishnakantkr)
 [![Instagram Badge](https://img.shields.io/badge/-Code_Bank-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/code_bank146/)](https://www.instagram.com/code_bank146/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:codebank2020@gmail.com)](mailto:codebank2020@gmail.com)&nbsp;
-[![Website](https://img.shields.io/website?label=Code_Bank&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](http://codebank.co.in)
+[![Website](https://img.shields.io/website?label=Code_Bank&style=for-the-badge&url=https%3A%2F%2Fcodebnk.in)](http://codebnk.in)
 <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishnakant-kumar-80965b176/)](https://www.linkedin.com/in/krishnakant-kumar-80965b176/)&nbsp;[![Instagram Badge](https://img.shields.io/badge/-instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kant_146/)](https://www.instagram.com/kant_146/)&nbsp;[![Hashnode Badge](https://img.shields.io/badge/-hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&link=https://hashnode.com/@Kant146)](https://hashnode.com/@Kant146)&nbsp;
 [![Medium Badge](https://img.shields.io/badge/-medium-000000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@krishnakantkumar_32146)](https://medium.com/@krishnakantkumar_32146)<br/> [![Youtube Badge](https://img.shields.io/badge/-youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)](https://www.youtube.com/channel/UCBTwzxjvK-0gGuJ1g_LlP8Q)&nbsp; [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/omgkant.146)](https://www.facebook.com/omgkant.146)
@@ -66,9 +66,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=tokyonight&count_private=true)&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
 
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
+![kant's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kant146) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kant146&theme=github&count_private=true)  
 
 ---
 
