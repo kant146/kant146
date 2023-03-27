@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to making food and eat.
 > 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
 
-[![wakatime](https://wakatime.com/badge/user/a20f612d-058d-4b0e-bbad-509e268f1dcc/project/dd3c27f3-9406-4d4f-9d67-7e4abacfdff6.svg)](https://wakatime.com/badge/user/a20f612d-058d-4b0e-bbad-509e268f1dcc/project/dd3c27f3-9406-4d4f-9d67-7e4abacfdff6)
+[![wakatime](https://wakatime.com/badge/user/a20f612d-058d-4b0e-bbad-509e268f1dcc/project/dd3c27f3-9406-4d4f-9d67-7e4abacfdff6.svg)](https://wakatime.com/@kant146)
 
 
 
