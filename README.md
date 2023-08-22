@@ -71,7 +71,7 @@
 
  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=onedark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=onedark)
 ![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=onedark&count_private=true)
   
 
