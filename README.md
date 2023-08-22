@@ -4,13 +4,13 @@
 ### Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm krishnakant !! -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Krishnakant+Kumar+(Kant);I+am+Founder+of+Code+Bank;I+am+Mern+Stack+Developer;)](https://git.io/typing-svg)
-- 🔭 I  am passionate Full Stack Developer and Freelancer.
+- 🔭 I  am a passionate Full Stack Developer and Freelancer.
 - 🌱 From Brainware University, Kolkata.
 - 🛠⚙ I love to explore and learn about new things.
-- 🤝🎓 I’m looking to collaborate with other developer's
+- 🤝🎓 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to making food and eat.
-> 🐱‍💻 Not very active in Competitive Programming , but if I get time or feeling, I do :)
+- ⚡ Fun fact: I love to make food and eat.
+> 🐱‍💻 Not very active in Competitive Programming, but if I get time or feeling, I do :)
 
 [![wakatime](https://wakatime.com/badge/user/a20f612d-058d-4b0e-bbad-509e268f1dcc.svg)](https://wakatime.com/@a20f612d-058d-4b0e-bbad-509e268f1dcc)
 
@@ -61,8 +61,15 @@
 
 ![Count](https://profile-counter.glitch.me/kant146/count.svg)
   
-<img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&row=1&margin-w=15&margin-h=15">
-  
+
+<img src="https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&row=1&margin-w=15">
+
+<!--  https://github-profile-trophy.vercel.app/?username=kant146&theme=onedark&row=1&margin-w=15   -->
+ <!--  https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=tokyonight&count_private=true   -->
+ 
+
+
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kant146&theme=onedark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kant146&layout=compact&theme=tokyonight)
 ![kant's github stats](https://github-readme-stats.vercel.app/api?username=kant146&show_icons=true&hide_border=true&theme=onedark&count_private=true)
@@ -77,7 +84,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages](https://kant146.wordpress.com/2020/10/24/javascript/)
-- [Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming](https://kant146.wordpress.com/2020/10/24/python/)
+- [Python is an easy-to-learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming](https://kant146.wordpress.com/2020/10/24/python/)
 
 <!-- BLOG-POST-LIST:END -->
 
